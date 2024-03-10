@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+@font-face {
+    font-family: Montserrat-Medium;
+    src: url('../fonts/Montserrat/Montserrat-Medium.ttf');
+}
+
+* {
+    font-family: Montserrat-Medium;
+    border:none
+}
+.header__logotype {
+    font-family: Montserrat-Medium;
+    display: flex;
+    margin-top: 47px;
+        align-items: center;
+        margin-left: 370px;
+    }
+    .header__adress {
+        font-family: Montserrat-Medium;
+        display: flex;
+        gap: 59px;
+        margin-left: 1099px;
+    }
+
+    
